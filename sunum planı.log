@@ -1,0 +1,74 @@
+sunum planı:
+yapay zeka nedir?
+önceden neydi?
+şimdi ne?
+gelecekte ne olacak?
+
+yapay sinir ağları nedir?
+ilk örnekler - nasıl çalışır
+geçmişten günümüze örnekler - nasıl çalışır.
+
+doğal dil işleme nedir?
+geçmiş günümüze doğal dil işleme metodları
+
+LLM nedir?
+nasıl çalışır?
+LLM'nin geleceği nedir?
+
+yapay zeka nedir?
+zeka nedir?
+Bireyin amaçlı hareket etme, rasyonel düşünme ve çevresiyle etkili bir şekilde başa çıkma konusundaki toplam veya küresel kapasitesi. - David Wechsler
+...bilgi ve kavramsal becerilerin edinilmesi, belleğe kaydedilmesi, geri çağrılması, birleştirilmesi, karşılaştırılması ve yeni bağlamlarda kullanılması sürecinin sonucudur. - Lloyd Humphreys
+Hedefe yönelik uyarlanabilir davranış - Robert Sternberg & William Salter
+Psikoloji, felsefe ve yapay zeka araştırmacılarından 70'ten fazla tanımın senteziyle ortaya konan ve matematiksel olarak formüle edilmiş olan "Zeka, bir ajanın çok çeşitli ortamlarda hedeflere ulaşma yeteneğini ölçer". - Shane Legg & Marcus Hutter
+
+arılar zeki midir?
+https://onedio.com/haber/bizden-daha-zeki-ciktilar-arilar-artik-temel-matematik-problemlerini-cozebiliyor-861368
+karıncalar zeki midir? 
+https://www.youtube.com/watch?v=j9xnhmFA7Ao
+
+yapay zeka tanımları:
+Yapay zeka kabaca; bir bilgisayarın ya da bilgisayar denetimli bir makinenin, genellikle insana özgü nitelikler olduğu varsayılan akıl yürütme, anlam çıkarma, genelleme ve geçmiş deneyimlerinden öğrenme gibi yüksek zihinsel süreçlere ilişkin görevleri yerine getirebilme yeteneği olarak tanımlanmaktadır. - Vasif V. Nabiyev 
+
+Yapay Zeka; sezgisel programlama temelinde olan bir yaklaşımdır."Yapay Zeka; insanların yaptıklarını bilgisayarlara yaptırabilme çalışmasıdır." - James Robert Slagle
+
+"Zeka, makinelerin henüz yapmadığı şeydir." - Larry Tesler
+
+klasik yapay zeka algoritmaları:
+- Arama algoritmaları (örneğin, A* algoritması)
+- Alfa - Beta budama
+- minimax algoritması
+- karar ağaçları
+- k-en yakın komşu algoritması (k-NN)
+- Naive Bayes sınıflandırıcısı
+- Destek Vektör Makineleri (SVM)
+- Genetik algoritmalar
+- Bulanık mantık
+
+yapay sinir ağları nedir?
+Bir nöron veya sinir hücresi, sinir sisteminin temel birimi olan bir hücredir. Nöronlar, elektrik sinyallerini ileten ve işleyen hücrelerdir. Yapay sinir ağları, biyolojik nöronların çalışma prensiplerini taklit eden ve bilgi işleme yeteneği kazandıran yapay modellerdir.
+bir nöron ve  Mc. Culloch-Pitts modeli (1943) 
+https://www.cs.cmu.edu/~epxing/Class/10715/reading/McCulloch.and.Pitts.pdf
+
+1958 de Frank Rosenblatt tarafından geliştirilen Perceptron modeli
+https://bpb-us-e2.wpmucdn.com/websites.umass.edu/dist/a/27637/files/2016/03/rosenblatt-1957.pdf
+
+backpropagation algoritması (1986)
+https://www.nature.com/articles/323533a0
+
+
+
+bir örneğin bir nöron ile çözümü
+
+https://www.science-on-stage.eu/machine-learning/simple-network-single-neuron
+
+
+
+iki katman gerektiren bir örneğin katmanlı yapay sinir ağı ile çözümü
+
+https://www.science-on-stage.eu/machine-learning/simple-network-two-layers
+
+çok katman gerektiren bir örneğin katmanlı yapay sinir ağı ile çözümü
+
+https://playground.tensorflow.org/
+
